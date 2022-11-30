@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FigmaTask/static/css/main.39357676.css",
+    "main.js": "/FigmaTask/static/js/main.a3694466.js",
+    "index.html": "/FigmaTask/index.html",
+    "main.39357676.css.map": "/FigmaTask/static/css/main.39357676.css.map",
+    "main.a3694466.js.map": "/FigmaTask/static/js/main.a3694466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39357676.css",
+    "static/js/main.a3694466.js"
+  ]
+}
