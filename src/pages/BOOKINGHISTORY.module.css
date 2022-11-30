@@ -1,0 +1,541 @@
+* {
+  /* display: flex; */
+  /* justify-content: center; */
+  /* text-align: center; */
+}
+
+.rectangleDiv {
+  top: 176px;
+  left: 24px;
+  background-color: #f6f6f6;
+  height: 259px;
+}
+
+.rectangleDiv,
+.rectangleDiv1,
+.rectangleDiv2 {
+  position: absolute;
+  border-radius: 9px;
+  width: 314px;
+}
+
+.rectangleDiv1 {
+  top: 448px;
+  left: 23px;
+  background-color: #f6f6f6;
+  height: 259px;
+}
+
+.rectangleDiv2 {
+  top: 88px;
+  left: 24px;
+  background: linear-gradient(96.25deg, #0037c5, #08005f);
+  height: 75px;
+}
+
+.dashiconsarrowDownAlt2 {
+  position: absolute;
+  top: 29px;
+  left: 18px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+
+.uPCOMINGAPPOINMENTSB {
+  position: absolute;
+  top: 30px;
+  left: 91px;
+  font-size: 15px;
+  text-transform: capitalize;
+  display: inline-block;
+}
+
+.newBookingIn2Minutes,
+.september2021930PM {
+  position: absolute;
+  text-transform: capitalize;
+  text-align: left;
+  display: inline-block;
+  height: 24px;
+}
+
+.newBookingIn2Minutes {
+  top: 116px;
+  left: 40px;
+  font-size: 15px;
+  color: #fff;
+  width: 197px;
+}
+
+.september2021930PM {
+  top: 268px;
+  left: 129px;
+  font-size: 14px;
+  width: 187px;
+}
+
+.appointmentWithDoctorArun,
+.appointmentWithDoctorArun1,
+.doctorWorldClinic,
+.doctorWorldClinic1,
+.september2021930PM1,
+.testXRayTest {
+  position: absolute;
+  top: 537px;
+  left: 128px;
+  font-size: 14px;
+  text-transform: capitalize;
+  text-align: left;
+  display: inline-block;
+  width: 187px;
+  height: 24px;
+}
+
+.appointmentWithDoctorArun,
+.appointmentWithDoctorArun1,
+.doctorWorldClinic,
+.doctorWorldClinic1,
+.testXRayTest {
+  top: 613px;
+}
+
+.appointmentWithDoctorArun,
+.appointmentWithDoctorArun1,
+.doctorWorldClinic,
+.doctorWorldClinic1 {
+  top: 317px;
+  left: 129px;
+}
+
+.appointmentWithDoctorArun,
+.appointmentWithDoctorArun1,
+.doctorWorldClinic1 {
+  top: 586px;
+  left: 128px;
+}
+
+.appointmentWithDoctorArun,
+.appointmentWithDoctorArun1 {
+  top: 292px;
+  left: 129px;
+  color: #e97000;
+  width: 200px;
+}
+
+.appointmentWithDoctorArun1 {
+  top: 561px;
+  left: 128px;
+}
+
+.rectangleDiv3 {
+  position: absolute;
+  top: 106.77px;
+  left: 237px;
+  border-radius: 50px;
+  background: linear-gradient(83.18deg, #ff8412, #d23758 70.7%, #b1008a);
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 86.7px;
+  height: 35.44px;
+}
+
+.rectangleIcon,
+.rectangleIcon1 {
+  position: absolute;
+  top: 192px;
+  left: 30px;
+  border-radius: 40px;
+  width: 78px;
+  height: 45.22px;
+}
+
+.rectangleIcon1 {
+  top: 464px;
+  left: 29px;
+}
+
+.rectangleDiv4,
+.rectangleDiv5,
+.rectangleDiv6 {
+  position: absolute;
+  top: 197.77px;
+  left: 31px;
+  border-radius: 50px;
+  background: linear-gradient(94.33deg, #ff8412, #ff8412 0.01%, #b1008a);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 69.76px;
+  height: 35.44px;
+}
+
+.rectangleDiv5,
+.rectangleDiv6 {
+  top: 469.77px;
+  left: 30px;
+}
+
+.rectangleDiv6 {
+  top: 470px;
+  left: 106px;
+}
+
+.rectangleDiv7,
+.rectangleIcon2 {
+  position: absolute;
+  top: -6px;
+  left: -1px;
+  border-radius: 40px;
+  width: 78px;
+  height: 43px;
+}
+
+.rectangleDiv7 {
+  top: 1.67px;
+  left: 0;
+  border-radius: 50px;
+  background: linear-gradient(94.33deg, #f1f1f1, #f1f1f1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 69.76px;
+  height: 33.33px;
+}
+
+.groupDiv,
+.groupDiv1 {
+  position: absolute;
+  top: 197px;
+  left: 259px;
+  width: 70px;
+  height: 35px;
+}
+
+.groupDiv1 {
+  top: 469px;
+  left: 258px;
+}
+
+.rectangleDiv9,
+.rectangleIcon4 {
+  position: absolute;
+  top: -6px;
+  left: -1px;
+  border-radius: 40px;
+  width: 329px;
+  height: 57px;
+}
+
+.rectangleDiv9 {
+  top: 2.33px;
+  left: 0;
+  border-radius: 50px;
+  background: linear-gradient(94.33deg, #f1f1f1, #f1f1f1);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 319.88px;
+  height: 46.67px;
+}
+
+.groupDiv2 {
+  position: absolute;
+  top: 725px;
+  left: 20px;
+  width: 321px;
+  height: 49px;
+}
+
+.groupDiv3,
+.groupDiv4,
+.groupDiv5 {
+  position: absolute;
+  top: 197px;
+  left: 107px;
+  width: 70px;
+  height: 35px;
+}
+
+.groupDiv4,
+.groupDiv5 {
+  left: 183px;
+}
+
+.groupDiv5 {
+  top: 469px;
+  left: 182px;
+}
+
+.rectangleDiv13,
+.rectangleIcon8 {
+  position: absolute;
+  top: -6px;
+  left: -1px;
+  border-radius: 40px;
+  width: 103px;
+  height: 43px;
+}
+
+.rectangleDiv13 {
+  top: 1.67px;
+  left: 0;
+  border-radius: 50px;
+  background: linear-gradient(93.12deg, #b1008a, #060d67);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 94.67px;
+  height: 33.33px;
+}
+
+.groupDiv6,
+.groupDiv7 {
+  position: absolute;
+  top: 367px;
+  left: 34px;
+  width: 95px;
+  height: 35px;
+}
+
+.groupDiv7 {
+  top: 650px;
+}
+
+.rectangleDiv15,
+.rectangleIcon10 {
+  position: absolute;
+  top: -6px;
+  left: -1px;
+  border-radius: 40px;
+  width: 97px;
+  height: 43px;
+}
+
+.rectangleDiv15 {
+  top: 1.67px;
+  left: 0;
+  border-radius: 50px;
+  background: linear-gradient(93.12deg, #b1008a, #060d67);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 88.69px;
+  height: 33.33px;
+}
+
+.bookNowDiv,
+.groupDiv8,
+.groupDiv9 {
+  position: absolute;
+  top: 368px;
+  left: 141px;
+  width: 89px;
+  height: 35px;
+}
+
+.bookNowDiv,
+.groupDiv9 {
+  top: 651px;
+}
+
+.bookNowDiv {
+  top: 116px;
+  left: 229px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: #fff;
+  display: inline-block;
+  width: 105px;
+  height: 24px;
+}
+
+.clinicB {
+  top: 207px;
+  left: 21px;
+  color: #fff;
+  width: 91px;
+}
+
+.clinicB,
+.clinicB1,
+.rESCHEDULEB {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 24px;
+}
+
+.clinicB1 {
+  top: 479px;
+  left: 20px;
+  color: #fff;
+  width: 91px;
+}
+
+.rESCHEDULEB {
+  top: 379px;
+  left: 12px;
+  width: 139.35px;
+}
+
+.cANCELB,
+.rESCHEDULEB,
+.rESCHEDULEB1 {
+  font-size: 10px;
+  color: #fff;
+}
+
+.rESCHEDULEB1 {
+  position: absolute;
+  top: 662px;
+  left: 12px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 139.35px;
+  height: 24px;
+}
+
+.cANCELB {
+  top: 380px;
+  left: 115.69px;
+}
+
+.bACK,
+.cANCELB,
+.cANCELB1 {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 139.35px;
+  height: 24px;
+}
+
+.cANCELB1 {
+  top: 663px;
+  left: 115.69px;
+  font-size: 10px;
+  color: #fff;
+}
+
+.bACK {
+  top: 742px;
+  left: 112px;
+  font-size: 12px;
+}
+
+.testDiv {
+  top: 206px;
+  left: 101px;
+  font-weight: 500;
+}
+
+.medicineDiv,
+.medicineDiv1,
+.surgeryDiv,
+.surgeryDiv1,
+.testB,
+.testDiv {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 83px;
+  height: 24px;
+}
+
+.testB {
+  top: 479px;
+  left: 100px;
+  color: #fff;
+}
+
+.medicineDiv,
+.medicineDiv1,
+.surgeryDiv,
+.surgeryDiv1 {
+  top: 206px;
+  left: 177px;
+  font-weight: 500;
+}
+
+.medicineDiv,
+.medicineDiv1,
+.surgeryDiv1 {
+  top: 478px;
+  left: 176px;
+}
+
+.medicineDiv,
+.medicineDiv1 {
+  top: 206px;
+  left: 254px;
+}
+
+.medicineDiv1 {
+  top: 478px;
+  left: 253px;
+}
+
+.groupIcon,
+.groupIcon1 {
+  position: absolute;
+  top: 260px;
+  left: 31px;
+  width: 84px;
+  height: 84px;
+}
+
+.groupIcon1 {
+  top: 532px;
+  left: 30px;
+}
+
+.rectangleDiv17,
+.rectangleDiv18 {
+  position: absolute;
+  top: 370px;
+  left: 240px;
+  border-radius: 27px;
+  background-color: transparent;
+  border: 1px solid #999;
+  box-sizing: border-box;
+  width: 89px;
+  height: 32px;
+}
+
+.rectangleDiv18 {
+  top: 653px;
+}
+
+.vIEWB,
+.vIEWB1 {
+  position: absolute;
+  top: 380px;
+  left: 226px;
+  font-size: 10px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 139.35px;
+  height: 24px;
+}
+
+.vIEWB1 {
+  top: 663px;
+}
+
+.carbonviewIcon,
+.carbonviewIcon1 {
+  position: absolute;
+  top: 379px;
+  left: 264px;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+}
+
+.carbonviewIcon1 {
+  top: 662px;
+}
+
+.bOOKINGHISTORYDiv {
+  position: relative;
+  border-radius: 0 15px 0 15px;
+  background-color: #fff;
+  width: 100%;
+  height: 789px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 13px;
+  color: #000;
+  font-family: Quicksand;
+}
